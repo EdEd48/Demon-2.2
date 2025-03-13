@@ -18,7 +18,7 @@ global.confirmCode = ''
 global.owner = [
    ['573143681055', 'Creador 👑', true],
    ['50557865603', 'Owner 💛', true],
-   ['', 'Owner ☁️', true],
+   ['584241836217', 'Owner ☁️', true],
    ['', 'Owner 🍭', true],
    [''],
    [''],
