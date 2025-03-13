@@ -28,7 +28,7 @@ console.log(`Error : ${e}`)
 }}
 
 //creador y otros
-global.creador = 'Wa.me/584241836217'
+global.creador = 'Wa.me/573143681055'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'https://wa.me/message/O4QPPHZOFDOJI1'
 global.namechannel = '☠︎︎ Demon • Channel OFC ☠︎︎'
